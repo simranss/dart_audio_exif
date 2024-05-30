@@ -32,7 +32,7 @@ Add the package to your `pubspec.yaml` file and get started.
 For getting metadata from file path
 
 ```dart
-// file object
+// file path
 final path = 'path_to_file/file.mp3';
 final fileExtension = 'mp3'; // can be mp3, wav, ogg
 
@@ -43,6 +43,7 @@ final metadata = await extractor.extractMetadataFromPath(path);
 For getting metadata from file bytes
 
 ```dart
+// bytes
 final Uint8List bytes;
 final fileExtension = 'mp3'; // can be mp3, wav, ogg
 
