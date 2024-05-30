@@ -6,6 +6,15 @@ repository: https://github.com/simranss/dart_audio_exif
 environment:
   sdk: ^3.3.4
 
+# This package supports all platforms listed below.
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
 # Add regular dependencies here.
 # dependencies:
 # path: ^1.8.0
