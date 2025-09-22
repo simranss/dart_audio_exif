@@ -2,6 +2,6 @@
 
 - Initial version.
 
-## 1.0.0+2
+## 2.0.0
 
  - Support for newer versions of Dart.
