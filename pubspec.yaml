@@ -1,6 +1,6 @@
 name: audio_exif
 description: A dart package that retrieves metadata from audio files.
-version: 1.0.0+1
+version: 1.0.0+2
 repository: https://github.com/simranss/dart_audio_exif
 
 environment:
